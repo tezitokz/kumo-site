@@ -1,29 +1,13 @@
-# Kumo mini-site
+# Kumo website
 
-Static website for GitHub Pages.
+Static GitHub Pages site: https://tezitokz.github.io/kumo-site/
+Privacy URL: https://tezitokz.github.io/kumo-site/privacy.html
+Support: tezitokz@gmail.com
 
-## Before publishing
-Replace every occurrence of:
-`YOUR_EMAIL_HERE`
-with the real support/privacy email address.
+## September 22, 2026 update
 
-Files:
-- `index.html` — product landing page
-- `privacy.html` — Chrome Web Store privacy policy
-- `support.html` — support/contact page
-- `styles.css` — site styles
+Matches extension 0.21.82: local drafts, Chrome Sync technical settings, source imports, remote assets, optional Slack/Telegram reports and per-report consent. The report retention disclosure reflects the absence of an automatic deletion mechanism; it does not promise a fixed expiry. Confirm the operational access and retention settings of the support destinations before store resubmission.
 
-## Suggested GitHub repository name
-`kumo-site`
+Serve the directory with any static HTTP server to preview. No build, external fonts, scripts or analytics. Deploy the HTML, styles.css and kumo-mark.svg together. The ZIP is an updated copy of those files.
 
-If your GitHub username is `YOUR_USERNAME`, the Pages URL will normally be:
-
-`https://YOUR_USERNAME.github.io/kumo-site/`
-
-Privacy policy URL:
-
-`https://YOUR_USERNAME.github.io/kumo-site/privacy.html`
-
-Support URL:
-
-`https://YOUR_USERNAME.github.io/kumo-site/support.html`
+Before resubmission, publish the site and update Chrome Web Store Privacy practices to match actual handling; installing a checkbox alone does not update the store disclosures.
