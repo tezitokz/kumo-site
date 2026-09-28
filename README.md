@@ -11,3 +11,7 @@ Matches extension 0.21.82: local drafts, Chrome Sync technical settings, source 
 Serve the directory with any static HTTP server to preview. No build, external fonts, scripts or analytics. Deploy the HTML, styles.css and kumo-mark.svg together. The ZIP is an updated copy of those files.
 
 Before resubmission, publish the site and update Chrome Web Store Privacy practices to match actual handling; installing a checkbox alone does not update the store disclosures.
+
+## September 28, 2026 update
+
+Adds Terms of Use and consistent legal navigation. Privacy now explains template Trash and permanent clearing, folder removal, BO recovery storage, and images/checklists/reminders in Home notes. Support includes template recovery instructions. No analytics or consent tracking added.
