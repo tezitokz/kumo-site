@@ -52,3 +52,6 @@ footer { border-top:1px solid var(--line); padding:24px 0 32px; display:flex; ga
 footer span { margin-right:auto; }
 @media(max-width:800px) { .reading-layout { grid-template-columns:1fr; gap:32px; } .contents { position:static; display:grid; grid-template-columns:1fr 1fr; } .workflow { grid-template-columns:1fr; gap:24px; } .workflow span { margin-bottom:8px; } .privacy-summary { grid-template-columns:1fr; gap:8px; } }
 @media(max-width:480px) { .shell { width:calc(100% - 32px); } .nav { gap:16px; padding:20px 0; } .nav nav { gap:16px; } .nav nav a { font-size:13px; } .brand { gap:8px; font-size:20px; } .page-heading { padding:40px 0 32px; } .lead { font-size:18px; } .contents { grid-template-columns:1fr; gap:12px; } h2 { font-size:21px; } footer { gap:12px 24px; } footer span { flex-basis:100%; } }
+
+.support-copy a, footer a { color:var(--text);text-decoration-thickness:1px;text-underline-offset:4px; }
+.support-copy a:hover, footer a:hover { color:var(--muted); }
